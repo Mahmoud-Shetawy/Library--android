@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/theme"
+        android:icon="@drawable/ic_theme"
+        android:title="@string/themes" >
+        <menu>
+            <item
+                android:id="@+id/theme_light"
+                android:icon="@drawable/ic_theme"
+                android:title="@string/light_theme" />
+            <item
+                android:id="@+id/theme_dark"
+                android:icon="@drawable/ic_theme"
+                android:title="@string/dark_theme" />
+        </menu>
+
+    </item>
+    <item
+        android:id="@+id/setting"
+        android:icon="@drawable/ic_theme"
+        android:title="@string/themes" />
+
+</menu>

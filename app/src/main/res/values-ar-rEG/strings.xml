@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">library</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="password">كلمة المرور</string>
+    <string name="id">الرقم القومى:30102141700873</string>
+    <string name="confirm_password">تاكيد كلمة المرور</string>
+    <string name="if_you_have_account" >اذا كان لديك حساب يمكنك</string>
+    <string name="create_account">اذا لم يكن لديك حساب يمكنك</string>
+    <string name="sign_up">انشاء حساب</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="save_login">حفظ التسجيل</string>
+    <string name="file">فايل</string>
+    <string name="Password_not_correct">كلمة المرور غير صحيحة</string>
+    <string name="Password_required">كلمة المرور مطلوبة</string>
+    <string name="username_required">اسم المستخدم مطلوب</string>
+    <string name="username_is_required">اسم المستخدم مطلوب</string>
+    <string name="ID_is_required">الرقم القومي مطلوب</string>
+    <string name="ID_is_not_correct">الرقم القومي غير صحيح</string>
+    <string name="confirm_password_is_required">تأكيد كلمة المرور مطلوبة</string>
+    <string name="password_should_more_than_or_equals_8_character">يجب ان يتكون كلمة المرور اكثر من 8 حروف</string>
+    <string name="password_should_equals_confirm_password">كلمة المرور يجب ان يساوي تأكيد كلمة المرور</string>
+    <string name="username_or_password_is_wrong">اسم المستخدم او كلمة المرور خاطئة</string>
+    <string name="ID_is_Exists_before">الرقم القومي موجود من قبل</string>
+    <string name="USERNAME_is_Exists_before">اسم المستخدم موجود من قبل</string>
+    <string name="done_you_can_login_now">تم الإنشاء يمكنك التسجيل الآن</string>
+    <string name="dark_theme">dark_theme</string>
+    <string name="themes">themes</string>
+    <string name="light_theme">light_theme</string>
+    <string name="welcome">هلا</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="create_new">انشاء جديد</string>
+    <string name="open">فتح</string>
+</resources>

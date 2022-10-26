@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">library</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="id">ID EX:  30102141711473</string>
+    <string name="confirm_password"> confirm password</string>
+    <string name="if_you_have_account" >if you have account</string>
+    <string name="create_account" >"if you don't have account"</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">login</string>
+    <string name="save_login">save login</string>
+    <string name="Password_not_correct">Password is not correct</string>
+    <string name="Password_required">Password is required</string>
+    <string name="username_required">user name is required</string>
+    <string name="username_is_required">username is required</string>
+    <string name="ID_is_required">ID is required</string>
+    <string name="ID_is_not_correct">ID is not correct</string>
+    <string name="confirm_password_is_required">confirm password is required</string>
+    <string name="password_should_more_than_or_equals_8_character">password should more than or equals 8 character</string>
+    <string name="password_should_equals_confirm_password">password should equals confirm password</string>
+    <string name="username_or_password_is_wrong">username or password is wrong</string>
+    <string name="ID_is_Exists_before">ID is Exists before</string>
+    <string name="USERNAME_is_Exists_before">USERNAME is Exists before</string>
+    <string name="done_you_can_login_now">done you can login now</string>
+    <string name="light_theme">light_theme</string>
+    <string name="dark_theme">dark_theme</string>
+    <string name="themes">themes</string>
+    <string name="welcome">Welcome</string>
+    <string name="logout">logout</string>
+    <string name="file">File</string>
+    <string name="create_new">create_new</string>
+    <string name="open">open</string>
+
+
+</resources>
